@@ -37,3 +37,13 @@ h1.text-center {
     border-bottom: 2px solid #3498db;
     padding-bottom: 10px;
 }
+
+h3{
+    color:green;
+}
+.h3Title{
+    color:blue;
+}
+#rojito{
+    color:red;
+}
